@@ -1,0 +1,1 @@
+ticketee tutorial from the book Rails 4 in Action
